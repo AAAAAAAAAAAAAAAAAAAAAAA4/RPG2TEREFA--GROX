@@ -9,7 +9,7 @@ que diz quantos de cada item ele tem:
     {"nome": "Gork", "ouro": 100, ..., "inventario": {"Poção de Vida": 2}}
 
 TAREFA: complete as funções marcadas com TODO e rode testes_ex2.py.
-"""ssss
+"""
 
 
 def buscar_item(catalogo, nome):
