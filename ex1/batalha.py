@@ -15,7 +15,7 @@ Para conferir, rode o arquivo testes_ex1.py.
 import random
 
 
-def calcular_dano(ataque, defesa, critico=False):
+def calcular_dano(ataque, defesa, critico=False):                                                     
     """Dano = ataque - defesa, mas nunca menos que 1.
     Se for um golpe crítico, o dano dobra.
     Exemplos: calcular_dano(18, 3) -> 15    calcular_dano(18, 3, True) -> 30
